@@ -19,6 +19,7 @@ leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/snehalatha88/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -61,4 +62,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehalatha88/Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/snehalatha88/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
