@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehalatha88/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/snehalatha88/Leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/snehalatha88/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -20,12 +21,14 @@ leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/snehalatha88/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/snehalatha88/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/snehalatha88/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/snehalatha88/Leetcode/tree/master/0268-missing-number) |
