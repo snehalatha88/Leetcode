@@ -21,6 +21,7 @@ leetcode solutions
 | [0001-two-sum](https://github.com/snehalatha88/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/snehalatha88/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/snehalatha88/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snehalatha88/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/snehalatha88/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ leetcode solutions
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/snehalatha88/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snehalatha88/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/snehalatha88/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ leetcode solutions
 | [0061-rotate-list](https://github.com/snehalatha88/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/snehalatha88/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/snehalatha88/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/snehalatha88/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/snehalatha88/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
