@@ -9,6 +9,7 @@ leetcode solutions
 | [0001-two-sum](https://github.com/snehalatha88/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/snehalatha88/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/snehalatha88/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/snehalatha88/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/snehalatha88/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/snehalatha88/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/snehalatha88/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -64,6 +66,7 @@ leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/snehalatha88/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/snehalatha88/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -79,4 +82,12 @@ leetcode solutions
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/snehalatha88/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/snehalatha88/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/snehalatha88/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
