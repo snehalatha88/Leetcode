@@ -13,6 +13,7 @@ leetcode solutions
 | [0075-sort-colors](https://github.com/snehalatha88/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehalatha88/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/snehalatha88/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/snehalatha88/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
