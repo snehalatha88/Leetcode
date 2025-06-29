@@ -16,6 +16,7 @@ leetcode solutions
 | [0268-missing-number](https://github.com/snehalatha88/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/snehalatha88/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/snehalatha88/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/snehalatha88/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ leetcode solutions
 | [0069-sqrtx](https://github.com/snehalatha88/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/snehalatha88/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/snehalatha88/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/snehalatha88/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
